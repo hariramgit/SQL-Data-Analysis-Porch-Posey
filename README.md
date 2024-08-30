@@ -117,3 +117,7 @@ Common Table Expressions (WITH clause): Define temporary result sets that can be
 
 ### Triggers, CTE, Normalization, Stored Procedures and soo,..
 
+![Schema DB_Data]([https://github.com/your-username/your-repo-name/blob/main/images/screenshot.png](https://github.com/hariramgit/SQL-Data-Analysis-Porch-Posey/blob/main/The%20Parch%20%26%20Posey%20Database%20ERD.png
+))
+
+
