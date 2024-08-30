@@ -102,7 +102,7 @@ Common Table Expressions (WITH clause): Define temporary result sets that can be
 **LEAD():** Access data from subsequent rows in the result set.
 **LAG():** Access data from preceding rows in the result set.
 
-###UNION and UNION ALL:
+### UNION and UNION ALL:
 
 **UNION**: Combine the result sets of two or more queries, removing duplicates.
 **UNION ALL**: Combine the result sets of two or more queries, including duplicates.
